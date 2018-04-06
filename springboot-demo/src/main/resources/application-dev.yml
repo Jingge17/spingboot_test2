@@ -1,0 +1,6 @@
+server:
+  port: 80
+cupSize: B
+girl:
+  size: D
+  age: 18
